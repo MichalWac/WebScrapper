@@ -1,0 +1,7 @@
+.gradle
+.settings
+test
+target
+.classpath
+.project
+pom.xml
